@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshCodesX
 - 👀 I’m interested in web development and devops
-- 🌱 I’m currently learning frontend and devops
+- 🌱 I’m a full stack developer (i know full stack with javascript, as well as python), and currently I am learning devops
 - 💞️ I’m looking to collaborate on devops projects
 - 📫 You can reach me out through my linkedIn (https://www.linkedin.com/in/harsh-gupta-aba085286/) and twitter/X (https://twitter.com/iamharsh756)
 - 😄 Pronouns: He/Him
